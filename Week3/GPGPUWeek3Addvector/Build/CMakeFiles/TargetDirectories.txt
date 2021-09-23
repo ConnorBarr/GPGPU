@@ -1,0 +1,4 @@
+C:/Users/conno/OneDrive/Documents/GitHub/GPGPUWeek3Addvector/Build/CMakeFiles/vec-add.dir
+C:/Users/conno/OneDrive/Documents/GitHub/GPGPUWeek3Addvector/Build/CMakeFiles/sync.dir
+C:/Users/conno/OneDrive/Documents/GitHub/GPGPUWeek3Addvector/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/conno/OneDrive/Documents/GitHub/GPGPUWeek3Addvector/Build/CMakeFiles/ZERO_CHECK.dir

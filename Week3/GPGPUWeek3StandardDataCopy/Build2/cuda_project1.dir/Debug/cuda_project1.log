@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file ..\main.cpp...
+  
+  C:\Users\conno\OneDrive\Documents\GitHub\GPGPUWeek3StandardDataCopy\Build2>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin\nvcc.exe" -gencode=arch=compute_75,code=\"compute_75,compute_75\" -gencode=arch=compute_75,code=\"sm_75,compute_75\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\bin\HostX64\x64" -x cu    -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\include"     --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static -std=c++14 -Xcompiler="/EHsc -Zi -Ob0" -g  -D_WINDOWS -D"CMAKE_INTDIR=\"Debug\"" -D"CMAKE_INTDIR=\"Debug\"" -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdcuda_project1.dir\Debug\vc142.pdb /FS /Zi /RTC1 /MDd /GR" -o cuda_project1.dir\Debug\main.obj "C:\Users\conno\OneDrive\Documents\GitHub\GPGPUWeek3StandardDataCopy\main.cpp" 
+c:\users\conno\onedrive\documents\github\gpgpuweek3standarddatacopy\main.cpp(34): warning : variable "x" was declared but never referenced
+  
+  main.cpp
+  cuda_project1.vcxproj -> C:\Users\conno\OneDrive\Documents\GitHub\GPGPUWeek2\Build2\Debug\cuda_project1.exe

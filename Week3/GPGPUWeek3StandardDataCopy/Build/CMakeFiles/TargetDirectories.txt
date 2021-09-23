@@ -1,0 +1,3 @@
+C:/Users/conno/OneDrive/Documents/GitHub/GPGPUWeek2/Build/CMakeFiles/cuda_project1.dir
+C:/Users/conno/OneDrive/Documents/GitHub/GPGPUWeek2/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/conno/OneDrive/Documents/GitHub/GPGPUWeek2/Build/CMakeFiles/ZERO_CHECK.dir
